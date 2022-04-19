@@ -1,8 +1,8 @@
-<h1 align="center">Mazer Dashboard</h1>
+<h1 align="center">Wikipedia State Web Scraper</h1>
 
 ![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
 
-<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
+<p align="center">his is a python script that I made that will go to wikipedia and extract /p>
 <div align="center">
 
 [![All Contributors](https://img.shields.io/github/contributors/zuramai/mazer)](https://github.com/zuramai/mazer/graphs/contributors)
@@ -36,7 +36,7 @@ git clone https://github.com/zuramai/mazer
 - [React JS Component Library](https://github.com/fachryansyah/react-mazer-ui) by [@fachryansyah](https://github.com/fachryansyah/)
 - [Adonisjs 5](https://github.com/afman42/mazer-adonisjs) by [@afman42](https://github.com/afman42/)
 - [Django](https://github.com/bimbims125/mazer-django) by [@bimbims125](https://github.com/bimbims125/)
-- Did you make in another framework or tools? Open up Pull Requests and put yours here! 😃
+- Did you make in another framework or tools? Open up Pull Requests and put yours here!
 
 ## Contributing
 
