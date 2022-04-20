@@ -1,5 +1,5 @@
 <h1 align="center">Wikipedia State Web Scraper</h1>
-<p align ="center">
+<p align="center">
 
 ![Screenshot](https://github.com/EzPc0/Wiki-State-Scraper/blob/main/screenshot.png)
 </p>
