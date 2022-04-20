@@ -5,7 +5,7 @@
 	</a>
 </p>
 
-<p align="center">
+<p align="left">
 This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States and sends back an updates list of the states and the stats associated with it.</p>
 <div align="center">
 
@@ -25,8 +25,19 @@ This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_
 git clone https://github.com/EzPc0/Wiki-State-Scraper
 ```
 
-2. Open the `Wiki-State-Scraper/dist/index.html` file to see the dashboard.
+2. install node
 
+3. run  
+```sh
+npm install something
+```
+
+4. run while in the directory 
+```sh
+node index.js
+```
+
+and enjoy cool state stats
 
 
 ## Contributing
