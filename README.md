@@ -5,7 +5,8 @@
 	</a>
 </p>
 
-<p align="center">This is a python script that I made that will go to wikipedia and extract data from a table/p>
+<p align="center">
+This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States and sends back an updates list of the states and the stats associated with it.</p>
 <div align="center">
 
 [![All Contributors](https://img.shields.io/github/contributors/EzPc0/Wiki-State-Scraper)](https://github.com/EzPc0/Wiki-State-Scraper/graphs/contributors)
