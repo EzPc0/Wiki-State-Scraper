@@ -1,6 +1,9 @@
 <h1 align="center">Wikipedia State Web Scraper</h1>
+<p align ="center">
 
 ![Screenshot](https://github.com/EzPc0/Wiki-State-Scraper/blob/main/screenshot.png)
+</p>
+
 
 <p align="center">This is a python script that I made that will go to wikipedia and extract data from a table/p>
 <div align="center">
