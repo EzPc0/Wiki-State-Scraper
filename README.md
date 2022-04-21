@@ -25,24 +25,24 @@ This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_
 git clone https://github.com/EzPc0/Wiki-State-Scraper
 ```
 
-2. install node
+2. install node https://nodejs.dev/learn/how-to-install-nodejs
 
-3. run  
+3. Run in the root directory of the folder.
 ```sh
-npm install something
+npm install
 ```
 
-4. run while in the directory 
+4. After installing, run
 ```sh
 node index.js
 ```
 
-and enjoy cool state stats
+and then enjoy the cool state stats
 
 
 ## Contributing
 
-Please follow [Contributing Guide](./CONTRIBUTING.md) before contribute.
+I will not be accepting any contrubution to this. You are free to make your own copy and work on it from there.
 
 ## License
 
@@ -50,10 +50,4 @@ Wiki-State-Scraper is under [MIT License](./LICENSE).
 
 ## Author
 
-Wiki-State-Scraper is created by <a href="https://ahmadsaugi.com">Ahmad Saugi</a>.
-
-## Donation
-
-You can support Ahmad Saugi at [Ko-fi](https://ko-fi.com/saugi) or [Trakteer](https://trakteer.id/saugi)
-
-<a href="https://buymeacoffee.com/saugi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Wiki-State-Scraper is created by Caleb Carter</a>.
