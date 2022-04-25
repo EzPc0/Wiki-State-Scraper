@@ -11,7 +11,6 @@ This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_
 
 [![All Contributors](https://img.shields.io/github/contributors/EzPc0/Wiki-State-Scraper)](https://github.com/EzPc0/Wiki-State-Scraper/graphs/contributors)
 ![GitHub last commit](https://img.shields.io/github/last-commit/EzPc0/Wiki-State-Scraper.svg)
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/badges/shields.svg)
 [![License](https://img.shields.io/github/license/EzPc0/Wiki-State-Scraper.svg)](LICENSE)
 
 </div>
