@@ -41,12 +41,9 @@ and then enjoy the cool state stats
 
 ## Contributing
 
-I will not be accepting any contrubution to this. You are free to make your own copy and work on it from there.
+Feel free to contribute
 
 ## License
 
 Wiki-State-Scraper is under [MIT License](./LICENSE).
 
-## Author
-
-Wiki-State-Scraper is created by Caleb Carter</a>.
