@@ -7,13 +7,6 @@
 
 <p align="left">
 This is a javascript file that will go to https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States and sends back an updates list of the states and the stats associated with it.</p>
-<div align="center">
-
-[![All Contributors](https://img.shields.io/github/contributors/EzPc0/Wiki-State-Scraper)](https://github.com/EzPc0/Wiki-State-Scraper/graphs/contributors)
-![GitHub last commit](https://img.shields.io/github/last-commit/EzPc0/Wiki-State-Scraper.svg)
-[![License](https://img.shields.io/github/license/EzPc0/Wiki-State-Scraper.svg)](LICENSE)
-
-</div>
 </p>
 
 ## Installation
